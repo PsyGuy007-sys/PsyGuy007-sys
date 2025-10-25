@@ -11,6 +11,17 @@
 
 ---
 
+## 🧰 Stack backend & infra
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="Logo MariaDB" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Logo MongoDB" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Logo Redis" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Logo Docker" height="60" />
+</p>
+<p align="center"><sub>MariaDB · MongoDB · Redis · Docker</sub></p>
+
+---
+
 ## 🎯 Ce que j'aime construire
 - Plugins Paper/Velocity sur-mesure pour des serveurs qui encaissent les grosses charges sans broncher.
 - Ports Forge/Fabric vers 1.16 → 1.21 en gardant la saveur originale et en corrigeant les vieux bugs.
