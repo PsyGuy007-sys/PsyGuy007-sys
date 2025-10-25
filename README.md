@@ -26,6 +26,15 @@ _(Tu peux retrouver l’ensemble de mes repos directement sur [mon profil GitHub
 - 🦈 Pull Shark (x2) — parce que les gros PR, c’est la vie.
 - ⚡ Quickdraw — reviewer éclaire, validé par la communauté.
 
+## 📊 Stats & Activité
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsyGuy007-sys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PsyGuy007-sys&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsyGuy007-sys&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PsyGuy007-sys&theme=github-compact&hide_border=true&area=true)
+
 ## 🤝 Comment me ping
 - `@PsyGuy007` sur GitHub
 - Discord : `psyguy007` — ID `1375546444567543808`
