@@ -28,7 +28,7 @@
 - [ExtendedCrafting-Reforged](https://github.com/PsyGuy007-sys/ExtendedCrafting-Reforged) — Tables de craft XXL, automations et recettes infinies (MIT).  
 - [Ketting-1-20-x](https://github.com/PsyGuy007-sys/Ketting-1-20-x) — Fork MinecraftForge + patches Bukkit/Spigot pour hybrides performants.  
 
-_(Retrouve tous mes projets sur [mon profil GitHub](https://github.com/PsyGuy007-sys).)_
+_(Retrouve tous mes projets sur [mon profil GitHub](https://github.com/PsyGuy007-sys?tab=repositories).)_
 
 ## 📊 Stats & activité
 <p align="center">
