@@ -30,17 +30,6 @@
 
 > Oui, je continue de faire la blague des “packets” et des “packets” — on ne s'en lasse pas. 😄
 
-## 🚀 Mods & plugins en vitrine
-- [hopper-harmony](https://github.com/PsyGuy007-sys/hopper-harmony) — Ajuste les entonnoirs pour des serveurs plus fluides (Java).  
-- [VoidMiners-Reforged](https://github.com/PsyGuy007-sys/VoidMiners-Reforged) — Mine les ressources du néant en douceur, compatible Forge 1.20.x (MIT).  
-- [ArmorPlus-Reforged](https://github.com/PsyGuy007-sys/ArmorPlus-Reforged) — Modernisation d’un classique orienté exploration et boss fights (LGPLv3).  
-- [ExtraMachinery-Reforged](https://github.com/PsyGuy007-sys/ExtraMachinery-Reforged) — Automations modulaires inspirées de Botania (Apache 2.0).  
-- [BotanicalMachinery-Reforged](https://github.com/PsyGuy007-sys/BotanicalMachinery-Reforged) — Automatise les flux de mana sans sacrifier l’équilibrage lore-friendly (Apache 2.0).  
-- [ExtendedCrafting-Reforged](https://github.com/PsyGuy007-sys/ExtendedCrafting-Reforged) — Tables de craft XXL, automations et recettes infinies (MIT).  
-- [Ketting-1-20-x](https://github.com/PsyGuy007-sys/Ketting-1-20-x) — Fork MinecraftForge + patches Bukkit/Spigot pour hybrides performants.  
-
-_(Retrouve tous mes projets sur [mon profil GitHub](https://github.com/PsyGuy007-sys?tab=repositories).)_
-
 ## 📊 Stats & activité
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PsyGuy007-sys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Statistiques GitHub de PsyGuy007-sys" width="49%" />
