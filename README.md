@@ -1,65 +1,65 @@
 <div align="center">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.png" alt="Logo IntelliJ IDEA" height="80" />
-  <h1>Wolf 🐺 — Moddeur Java Minecraft</h1>
-  <p>8+ ans à fusionner Bukkit, Forge et packets NMS pour livrer des serveurs stables et fun.</p>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.png" alt="IntelliJ IDEA logo" height="80" />
+  <h1>Wolf 🐺 — Minecraft Java Modder</h1>
+  <p>🇫🇷 French developer living in UTC+1, shipping mods and network patches for the global Minecraft scene.</p>
   <p>
-    <a href="https://github.com/PsyGuy007-sys">Profil GitHub</a> ·
+    <a href="https://github.com/PsyGuy007-sys">GitHub Profile</a> ·
     <a href="https://discord.com/users/1375546444567543808">Discord</a>
   </p>
-  <p><strong>Badges :</strong> 🦈 Pull Shark (x2) · ⚡ Quickdraw</p>
+  <p><strong>GitHub Achievements:</strong> 🦈 Pull Shark (x2) · ⚡ Quickdraw</p>
 </div>
 
 ---
 
-## 🧰 Bases de données & orchestration
+## 🧰 Databases & Orchestration
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="Logo MariaDB" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Logo MongoDB" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Logo Redis" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Logo Docker" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB logo" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis logo" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker logo" height="60" />
 </p>
 <p align="center"><sub>MariaDB · MongoDB · Redis · Docker</sub></p>
 
 ---
 
-## 📦 Mods & releases CurseForge
+## 📦 Mods & Releases on CurseForge
 <p align="center">
   <a href="https://www.curseforge.com/members/psyguy007_sys/projects">
-    <img src="https://img.shields.io/badge/CurseForge-psyguy007__sys-ff7843?logo=curseforge&logoColor=white&style=for-the-badge" alt="Profil CurseForge de PsyGuy007_sys" />
+    <img src="https://img.shields.io/badge/CurseForge-psyguy007__sys-ff7843?logo=curseforge&logoColor=white&style=for-the-badge" alt="CurseForge profile badge for PsyGuy007_sys" />
   </a>
 </p>
-<p align="center"><sub>Changelogs détaillés, builds stables et suivi des téléchargements.</sub></p>
+<p align="center"><sub>Detailed changelogs, stable builds, and download stats for my mods.</sub></p>
 
 ---
 
-## 🎯 Ce que j'aime construire
-- Plugins Paper/Velocity sur-mesure pour des serveurs qui encaissent les grosses charges sans broncher.
-- Ports Forge/Fabric vers 1.16 → 1.21 en gardant la saveur originale et en corrigeant les vieux bugs.
-- Optimisations NMS/NBT pour assainir les flux réseau, gagner des TPS et faire respirer la JVM.
-- Pipelines CI/CD, docs claires et suivi communautaire pour des modpacks qui évoluent vite.
+## 🎯 What I Love Building
+- Paper / Velocity plugins tuned for servers that host hundreds of players without dropping TPS.
+- Forge / Fabric ports from 1.16 → 1.21 that respect the original gameplay vibe while fixing legacy bugs.
+- NMS / NBT optimizations to keep packets tidy, reduce network chatter, and give the JVM some breathing room.
+- CI/CD pipelines, docs, and community support so modpacks can iterate quickly and safely.
 
-> Oui, je continue de faire la blague des “packets” et des “packets” — on ne s'en lasse pas. 😄
+> Yes, I still make the “packets vs packets” pun — packet handlers deserve jokes too. 😄
 
-## 🔭 Roadmap express
-- Stabiliser les ports 1.21.x de la suite “Reforged” (ArmorPlus, ExtraMachinery, BotanicalMachinery).
-- Étendre l’intégration Docker + MariaDB/Redis pour les environnements de tests multi-serveurs.
-- Préparer un pack de scripts d’admin Paper/Velocity open-source pour les moddeurs francophones.
+## 🔭 Roadmap Snapshot
+- Stabilize the 1.21.x Reforged suite (ArmorPlus, ExtraMachinery, BotanicalMachinery).
+- Expand Docker + MariaDB/Redis environments for large multi-server regression testing.
+- Package an open-source admin toolkit for Paper/Velocity aimed at the French-speaking community.
 
-## 📊 Stats & activité
+## 📊 Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsyGuy007-sys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Statistiques GitHub de PsyGuy007-sys" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=PsyGuy007-sys&theme=tokyonight&hide_border=true" alt="Streak GitHub de PsyGuy007-sys" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PsyGuy007-sys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats for PsyGuy007-sys" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=PsyGuy007-sys&theme=tokyonight&hide_border=true" alt="GitHub streak for PsyGuy007-sys" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyGuy007-sys&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés par PsyGuy007-sys" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsyGuy007-sys&theme=github-compact&hide_border=true&area=true" alt="Graphique d'activité GitHub de PsyGuy007-sys" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyGuy007-sys&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages used by PsyGuy007-sys" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsyGuy007-sys&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph for PsyGuy007-sys" width="98%" />
 </p>
 
-## 🤝 Comment me ping
-- `@PsyGuy007` sur GitHub
-- Discord : `psyguy007` — ID `1375546444567543808`
-- Ouvre une issue ou une discussion sur le repo qui t’intéresse.
+## 🤝 Reach Out
+- GitHub: `@PsyGuy007`
+- Discord: `psyguy007` — ID `1375546444567543808`
+- Drop an issue or discussion on any project that catches your eye.
 
 ---
 
-> “Un bon plugin n’est pas seulement un jar qui tourne : c’est un réseau de packets bien rangés, un serveur qui respire et des joueurs qui restent.”
+> “A great plugin isn’t just a jar that runs — it’s packets in formation, a calm JVM, and players who stick around.”
