@@ -43,5 +43,3 @@ _(Tu peux retrouver l’ensemble de mes repos directement sur [mon profil GitHub
 ---
 
 > “Un bon plugin n’est pas seulement un jar qui tourne : c’est un réseau de packets bien rangés, un serveur qui respire et des joueurs qui restent.”  
-
-Si tu veux coller ce README à ton profil GitHub, crée simplement un repo nommé `PsyGuy007` ou `PsyGuy007-sys` avec ce fichier comme `README.md` (GitHub affichera automatiquement ce texte sur ta page de profil).
