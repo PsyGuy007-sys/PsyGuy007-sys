@@ -22,6 +22,16 @@
 
 ---
 
+## 📦 Mods & releases CurseForge
+<p align="center">
+  <a href="https://www.curseforge.com/members/psyguy007_sys/projects">
+    <img src="https://img.shields.io/badge/CurseForge-psyguy007__sys-ff7843?logo=curseforge&logoColor=white&style=for-the-badge" alt="Profil CurseForge de PsyGuy007_sys" />
+  </a>
+</p>
+<p align="center"><sub>Changelogs détaillés, builds stables et suivi des téléchargements.</sub></p>
+
+---
+
 ## 🎯 Ce que j'aime construire
 - Plugins Paper/Velocity sur-mesure pour des serveurs qui encaissent les grosses charges sans broncher.
 - Ports Forge/Fabric vers 1.16 → 1.21 en gardant la saveur originale et en corrigeant les vieux bugs.
@@ -29,6 +39,11 @@
 - Pipelines CI/CD, docs claires et suivi communautaire pour des modpacks qui évoluent vite.
 
 > Oui, je continue de faire la blague des “packets” et des “packets” — on ne s'en lasse pas. 😄
+
+## 🔭 Roadmap express
+- Stabiliser les ports 1.21.x de la suite “Reforged” (ArmorPlus, ExtraMachinery, BotanicalMachinery).
+- Étendre l’intégration Docker + MariaDB/Redis pour les environnements de tests multi-serveurs.
+- Préparer un pack de scripts d’admin Paper/Velocity open-source pour les moddeurs francophones.
 
 ## 📊 Stats & activité
 <p align="center">
